@@ -1,0 +1,35 @@
+#title {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 50px;
+  background-color: rgb(227, 227, 227);
+  font-size: 50px;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+  text-align: center;
+}
+
+section {
+  display: block;
+  text-align: center;
+  background-color: rgb(227, 227, 227);
+}
+
+a:visited {
+  color: #74638f;
+}
